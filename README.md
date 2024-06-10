@@ -31,8 +31,45 @@ This project involves using Kali Linux to explore and exploit vulnerabilities in
 - <b>Attacker Environment:</b> Kali Linux VM  
 
 <h2>Project walk-through:</h2>
-
+<h3>User Enumeration through SMTP</h3>
 <p align="center">
 Step 1: Ensuring both VMs are on the same network <br/>
-<img src="https://i.imgur.com/RIA2Tmj.png" height="80%" width="80% alt="Pi-Hole steps"/>
+<img src="https://i.imgur.com/Sh3tT2J.png" height="80%" width="80% alt="Sploit"/>
 <br />
+<br />
+Step 2: Scan the target server using NMAP  <br/>
+<img src="https://i.imgur.com/5yfQhPY.png" height="80%" width="80%" alt="Sploit"/>
+<br />
+<br />
+Step 3: Open Metasploit Framework, After Identifying which port we will exploit. <br/>
+Step 4: Enter “grep scanner search smtp” as a command <br/>
+<img src="https://i.imgur.com/2TW7pxr.png" height="80%" width="80%" alt="Sploit"/>
+<br />
+<br />
+Set metasploitable (Target VM) as RHOSTS  <br/> 
+<img src="https://i.imgur.com/GqdjqJl.png" height="80%" width="80%" alt="Pi-Hole steps"/>
+<br />
+<br />
+As per below image, we're going to exploit unix_users.txt  <br/>
+<img src="https://i.imgur.com/apeVO4V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 5: Verifying if users are really found.  <br/>
+ <br/>
+ If we Verify "backup", the result will be positive but if we check another user which is snot included (ex: test), we’ll get a negative result.<br/>
+ <br/>
+ <h1 align="center">THANK YOU</h1>
+</p>
+
+
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
+

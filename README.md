@@ -20,11 +20,10 @@ This project involves using Kali Linux to explore and exploit vulnerabilities in
 - <b>Nmap</b> 
 - <b>Metasploit Framework</b>
 - <b>Netcat</b> 
-- <b>Burp Suite </b>
+- <b>Burp Suite </b> 
 - <b>Wireshark</b> 
 - <b>Nikto</b>
 - <b>Hydra</b>
-
  <h2>Environments Used </h2>
 
 - <b>Target Environment: </b> Metasploitable VM

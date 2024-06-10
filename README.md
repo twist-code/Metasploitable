@@ -6,16 +6,14 @@ This project involves using Kali Linux to explore and exploit vulnerabilities in
 
 <h2>Skills Obtained</h2>
 
-- <b>DNS & IP Addressing Understanding:</b> Knowledge the role of DNS servers, DNS resolution process and IP role in networking.
-- <b>System Administration:</b>  Installing and configuring software on a server, likely on a Linux-based system.
-- <b>Command-Line Proficiency:</b> Enhanced ability to use the command line for system management tasks.
-- <b>Ad Blocking:</b> The methods used to block advertisements and unwanted domains at the network level.
-- <b>Malware and Phishing Prevention:</b> Preventing access to malicious sites and improve overall network security.
-- <b>Diagnosing Network Issues:</b> Identifying and resolving issues related to DNS and general network connectivity.
-- <b>Data Analysis:</b> Analyze logs to identify patterns, blocked domains, and potential security threats. Reading and interpreting system and network logs to troubleshoot problems.
-- <b>System Optimization:</b> Optimizing system performance by identifying and resolving bottlenecks or misconfigurations.
-- <b>End-User Training:</b> Ability to explain how the Pi-Hole works and its benefits to non-technical users.
-- <b>Planning and Execution:</b> Skills in planning and executing a technical project from start to finish.
+- <b>Network Scanning and Enumeration: </b> Using tools like Nmap to discover hosts, open ports, and services running on a network.
+- <b>Vulnerability Identification:</b> Identifying common vulnerabilities in systems and applications.
+- <b>Exploitation Techniques:</b> Using Metasploit and other tools to exploit identified vulnerabilities.
+- <b>Password Cracking:</b> Use tools like Hydra to perform brute-force attacks and understand password security.
+- <b>Web Application Testing:</b> Identifying and exploit vulnerabilities in web applications using tools like Burp Suite and Nikto.
+- <b>Traffic Analysis:</b> Using Wireshark to capture and analyze network traffic, helping to understand how data flows in a network and how attacks can be detected.
+- <b>Post-Exploitation:</b> Techniques for maintaining access and gathering further information after exploiting a system.
+- <b>Mitigation Strategies</b> The methods to secure systems and prevent the exploitation of similar vulnerabilities in real-world scenarios.
 
 <h2>Utilities Used</h2>
 

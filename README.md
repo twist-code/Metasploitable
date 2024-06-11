@@ -58,7 +58,28 @@ Step 5: Verifying if users are really found.  <br/>
  If we Verify "backup", the result will be positive but if we check another user which is snot included (ex: test), we’ll get a negative result.<br/>
  <img src="https://i.imgur.com/umlbe5Z.png" height="80%" width="80%" alt="Pi-Hole steps"/>
  <br/>
- <h1 align="center">THANK YOU</h1>
+ <h1 align="center">THE END</h1>
+
+ <h3>VNC PORT EXPLOITATION</h3>
+<p align="center">
+Step 1: Scan the target port using NMAP <br/>
+<img src="https://i.imgur.com/wYEuij8.png" height="80%" width="80% alt="Sploit"/>
+<br />
+<br />
+Step 2: Gep scann the VNC port  <br/>
+<img src="https://i.imgur.com/8QKSnr4.png" height="80%" width="80%" alt="Sploit"/>
+<br />
+<br />
+Step 3: Setting up Metasploitable as RHOSTS <br/>
+<img src="https://i.imgur.com/Qoi3hQ7.png" height="80%" width="80%" alt="Sploit"/>
+<br />
+<br />
+Step 4: EXPLOIT  <br/>
+ <br/>
+ If we Verify "backup", the result will be positive but if we check another user which is snot included (ex: test), we’ll get a negative result.<br/>
+ <img src="https://i.imgur.com/KCZpO37.png" height="80%" width="80%" alt="Pi-Hole steps"/>
+ <br/>
+  <h1 align="center">THE END</h1>
 </p>
 
 

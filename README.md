@@ -56,6 +56,7 @@ As per below image, we're going to exploit unix_users.txt  <br/>
 Step 5: Verifying if users are really found.  <br/>
  <br/>
  If we Verify "backup", the result will be positive but if we check another user which is snot included (ex: test), we’ll get a negative result.<br/>
+ <img src="https://i.imgur.com/umlbe5Z.png" height="80%" width="80%" alt="Pi-Hole steps"/>
  <br/>
  <h1 align="center">THANK YOU</h1>
 </p>

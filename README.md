@@ -13,7 +13,7 @@ This project involves using Kali Linux to explore and exploit vulnerabilities in
 - <b>Web Application Testing:</b> Identifying and exploit vulnerabilities in web applications using tools like Burp Suite and Nikto.
 - <b>Traffic Analysis:</b> Using Wireshark to capture and analyze network traffic, helping to understand how data flows in a network and how attacks can be detected.
 - <b>Post-Exploitation:</b> Techniques for maintaining access and gathering further information after exploiting a system.
-- <b>Mitigation Strategies</b> The methods to secure systems and prevent the exploitation of similar vulnerabilities in real-world scenarios.
+- <b>Mitigation Strategies:</b> The methods to secure systems and prevent the exploitation of similar vulnerabilities in real-world scenarios.
 
 <h2>Utilities Used</h2>
 
